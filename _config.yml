@@ -84,7 +84,7 @@ author:
   avatar           : "cosmo.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Singapore"
-  employer         : "Singapore Management University"
+  #employer         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "nyhu.2019@phdecons.smu.edu.sg"
