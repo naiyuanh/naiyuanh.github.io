@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-SG"
-title                    : "Naiyuan HU / Site Title"
+title                    : "Naiyuan HU (胡乃元)"
 title_separator          : "-"
 name                     : &name "Naiyuan"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Naiyuan"
   avatar           : "cosmo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Candidate at Singapore Mangement University"
   location         : "Singapore"
   #employer         : 
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
