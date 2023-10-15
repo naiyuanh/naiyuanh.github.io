@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a PhD candidate in the School of Economics at Singapore Management University. I am in the 2023-2024 Economics job market.
-- **Fields of Interest:** International Trade, Economic Geography
+
+**Fields of Interest:** International Trade, Economic Geography
 
   
