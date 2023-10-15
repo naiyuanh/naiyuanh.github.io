@@ -8,52 +8,29 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+Teaching and Research Fields
+======
+* Geography Economy, International Trade
+  
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, Renmin University of China, 2017
+* Exchange, The University of Manchester, 2014
+* M.S. in Economics, Tufts University, 2019
+* Ph.D in Economics, Singapore Management University, 2024 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant
+  * 2022 Research Assistant for Professor Yuan Mei, Singapore Management University
+  * 2018 Research Assistant for Professor Ujjayant Chakravorty, Tufts University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Honors, Sholarships, and Fellowships:
+======
+* 2023-2024 Presidential Doctoral Fellowship, Singapore Management University
+* 2019-2023 Graduate Full Scholarship (PhD Program), Singapore Management University
+* 2017-2019 Tuition Scholorship, Tufts University
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* MATLAB, R, Julia, LaTex
