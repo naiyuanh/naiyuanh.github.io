@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ### Teaching and Research Fields
-- Geography Economy, International Trade
+- Urban and Regional Economics, International Trade
   
 ### Education
 - B.S. in Economics, Renmin University of China, 2017
