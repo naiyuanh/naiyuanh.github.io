@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ### Working Papers
-**“Education Migration in China” (Job Market Paper)** with [Lin Ma](https://lin-ma.com/index.html)
+[**“Education Migration in China” (Job Market Paper)**](https://naiyuanh.github.io/files/education_migration.pdf) with [Lin Ma](https://lin-ma.com/index.html)
 
 **Abstract:** Educational resources are distributed unevenly across space and could contribute to spatial inequality. We develop a dynamic spatial model with life-cycle elements to study the impacts of location-specific educational resources. In the model, individuals determine whether and where to attend college, weighing on the distance to home, the expected option value of education, and the educational resources in the destination. Locations with more colleges attract more students. Moreover, as mobility costs increase with age, many college graduates stay in the city of their alma mater, leading to long-term changes in skill composition. We quantify the model to the context of China and structurally estimate the cost of obtaining a college degree in each location. We show that the college expansion between 2005 and 2015 had minimal impacts on welfare and skill composition, as it diverts resources towards the locations already well-endowed with colleges. More evenly distributed colleges could improve aggregate welfare and reduce spatial inequality at the same time.
 
