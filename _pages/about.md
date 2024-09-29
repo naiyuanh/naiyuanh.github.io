@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in the School of Economics at Singapore Management University. I am on the 2023-2024 Economics job market.
+I am an assistant professor in the School of Economics at Renmin University. Prior to this, I obtained a Ph.D. in Economics from Singapore Management University in 2024.
 
 **Fields of Interest:** Urban and Regional Economics, International Trade
 
