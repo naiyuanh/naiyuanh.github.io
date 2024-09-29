@@ -15,5 +15,5 @@ redirect_from:
 1. **“Education Migration in China” (Job Market Paper)** with [Lin Ma](https://lin-ma.com/index.html)
 ---
 
-2. [**“Tariffs as Bargaining Chips: A Quantitative Analysis of US-China Trade War"**](https://naiyuanh.github.io/files/tariff_bargaining.pdf) with [Yuan Mei](https://sites.google.com/site/meiyecon/home) and Tong Ni.
+2. **“Tariffs as Bargaining Chips: A Quantitative Analysis of US-China Trade War"**[pdf](https://naiyuanh.github.io/files/tariff_bargaining.pdf) with [Yuan Mei](https://sites.google.com/site/meiyecon/home) and Tong Ni.
 
