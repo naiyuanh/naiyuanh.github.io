@@ -12,7 +12,7 @@ I am an assistant professor in the School of Economics at Renmin University. Pri
 
 **Fields of Interest:** Urban and Regional Economics, International Trade
 
-**CV**\[[PDF](naiyuanh.github.io/)\]
-  
+**CV** \[[PDF](naiyuanh.github.io/files/cv.pdf)\]
+
 **Contact Information**
 **Email:** naiyuanhu 'at' ruc.edu.cn
