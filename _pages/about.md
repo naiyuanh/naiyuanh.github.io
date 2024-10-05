@@ -19,4 +19,5 @@ I am an assistant professor in the School of Economics at Renmin University. Pri
 **Contact Information**
 
 **Email:** naiyuanhu 'at' ruc.edu.cn
+
 **Office:** Room 855 Mingde Building, No. 59 Zhongguancun Street, Beijing, 100872, P.R. China
