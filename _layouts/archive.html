@@ -12,19 +12,27 @@ layout: default
   {% endunless %}
 {% endif %}
 
+<!-- Import Open Sans font from Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+
 <style>
   body {
-    font-family: 'Arial', sans-serif; /* You can replace 'Arial' with any desired font */
+    font-family: 'Open Sans', sans-serif; /* Sets the font to Open Sans */
     font-size: 16px; /* Sets the base font size */
   }
 
   a {
     font-size: 14px; /* Sets the size of links */
-    color: #007bff; /* Optional: Sets the link color */
+    color: #0229f6; /* Sets the specific hyperlink color */
+    text-decoration: none; /* Removes underline from links */
+  }
+
+  a:hover {
+    text-decoration: underline; /* Adds underline on hover */
   }
 
   h1.page__title {
-    font-size: 24px; /* Set a specific size for titles if needed */
+    font-size: 24px; /* Set a specific size for titles */
   }
 </style>
 
