@@ -29,6 +29,11 @@ layout: default
     border: none !important;
   }
 
+       /* Remove underline from links */
+.sqs-block-html p a, .sqs-block-markdown p a, .sqs-block-image p a, .sqs-block-html blockquote a, .sqs-block-markdown blockquote a, .sqs-block-image blockquote a, .sqs-block-html ol a, .sqs-block-markdown ol a, .sqs-block-image ol a, .sqs-block-html ul a, .sqs-block-markdown ul a, .sqs-block-image ul a, h1 a, h2 a, h3 a {
+      border: none !important;
+    }
+
   a:hover {
     text-decoration: none; /* Keeps underline removed even on hover */
   }
