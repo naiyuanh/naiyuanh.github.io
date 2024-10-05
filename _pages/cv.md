@@ -1,5 +1,5 @@
 ---
-layout: albertine
+layout: archive-taxonomy
 title: "CV"
 permalink: /cv/
 author_profile: true
