@@ -14,7 +14,7 @@ redirect_from:
   - Joint with [Lin Ma](https://lin-ma.com/index.html) and [Ben Zou](https://www.zouben.net)
   - Draft available upon request
 
-- Tariffs as Bargaining Chips: A Quantitative Analysis of US-China Trade War \[[Manuscript](https://naiyuanh.github.io/files/tariff_bargaining.pdf)\]
+- Tariffs as Bargaining Chips: A Quantitative Analysis of US-China Trade War \[[Manuscript](https://naiyuanh.github.io/files/tariff_bargaining.pdf)\], 2025. ***Revise and resubmit, American Economic Journal: Microeconomics.***
   - Joint with [Yuan Mei](https://sites.google.com/site/meiyecon/home) and [Tong Ni](https://tong-ni.github.io).
   
 
