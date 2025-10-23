@@ -3,7 +3,6 @@ layout: archive
 title: 
 permalink: /research/
 author_profile: false
-classes: research-page
 redirect_from:
   - /research
 ---
