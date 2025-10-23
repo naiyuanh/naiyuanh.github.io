@@ -1,0 +1,91 @@
+---
+# Front matter ensures Jekyll processes this SCSS file
+---
+
+/* ==========================================================================
+   Custom Styles for AcademicPages
+   ========================================================================== */
+
+/* 1. Global defaults (optional)
+   These are here just for clarity. You may remove this section if not needed.
+*/
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* ==========================================================================
+   2. Research Page — Serif Font Override
+   ========================================================================== */
+
+/* Jekyll automatically adds a class to <body> based on the permalink,
+   such as .page-research for /research/.
+   We use that class to target only the Research page. */
+
+.page-research,
+.research-page {
+  font-family: "Merriweather", Georgia, "Times New Roman", serif !important;
+  font-size: 17px;
+  line-height: 1.7;
+  color: #2b2b2b;
+  background-color: #fffdf8; /* subtle warmth, optional */
+  text-rendering: optimizeLegibility;
+}
+
+/* Paragraphs and body text */
+.page-research p {
+  font-family: inherit;
+  font-size: 17px;
+  line-height: 1.7;
+  margin-bottom: 1em;
+}
+
+/* Optional: Keep headings sans-serif for visual hierarchy */
+.page-research h1,
+.page-research h2,
+.page-research h3,
+.page-research h4 {
+  font-family: "Open Sans", Arial, sans-serif !important;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+/* Optional: Adjust list and link styles for better readability */
+.page-research ul,
+.page-research ol {
+  font-family: inherit;
+  margin-left: 1.5em;
+}
+
+.page-research a {
+  color: #004080;
+  text-decoration: none;
+}
+
+.page-research a:hover {
+  text-decoration: underline;
+}
+
+/* Optional: Style for blockquotes or citations in the research page */
+.page-research blockquote {
+  font-style: italic;
+  border-left: 3px solid #ccc;
+  margin: 1em 0;
+  padding-left: 1em;
+  color: #555;
+  background: #fafafa;
+}
+
+/* ==========================================================================
+   3. Print Optimization for Research Page
+   ========================================================================== */
+@media print {
+  .page-research {
+    font-family: "Times New Roman", serif !important;
+    color: #000;
+    background: none;
+  }
+}
